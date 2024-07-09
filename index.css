@@ -8,7 +8,7 @@
     width: 100%;
     min-height: 100vh;
     background: linear-gradient(135deg,#153677,#4e085f);
-    background-image: url(https://cdn.openart.ai/stable_diffusion/ecedff062728ebcb6e527b4f88a7eb592a1a042e_2000x2000.webp);
+    background-image: url('https://cdn.openart.ai/stable_diffusion/ecedff062728ebcb6e527b4f88a7eb592a1a042e_2000x2000.webp');
     padding: 10px;
 }
 .todo-app{
